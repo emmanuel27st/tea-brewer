@@ -1,0 +1,23 @@
+{
+  "name": "tea-brewer",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmanuel27st/tea-brewer.git"
+  },
+  "author": "Emmanuel",
+  "license": "ISC",
+  "dependencies": {
+    "tea-demo-arsen": "1.0.1",
+    "tea-alchemy": "0.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/emmanuel27st/tea-brewer/issues"
+  },
+  "homepage": "https://github.com/emmanuel27st/tea-brewer#readme"
+}
